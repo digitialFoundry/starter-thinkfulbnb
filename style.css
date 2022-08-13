@@ -1,20 +1,21 @@
 /* -------  General Styles ------- */
+/* -------  General Styles ------- */
 
 body {
   font-family: "Lato", sans-serif;
 }
 
 h2 {
-  font-size: 26px;
-  font-weight: 400;
+  font-size: 34px;
+  font-weight: 500;
   margin: 0 10px 10px 10px;
   text-align: center;
 }
 
 h3 {
-  font-size: 18px;
-  font-weight: 500;
-  font-weight: bold;
+  font-size: 22px;
+  font-weight: 550;
+  /* font-weight: bold; */
 }
 
 p {
@@ -39,7 +40,36 @@ main img {
 
 .group {
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0
+}
+
+.form-item {
+  flex: 1;
+  margin: 12px 5px;
+}
+
+.about-item {
+  flex: 1;
+  margin: 12px;
+}
+
+.ideas-item {
+  flex: 1;
+  margin: 12px;
+}
+
+.host-item {
+  flex: 1;
+  margin: 12px;
 }
 
 .group img {
@@ -62,22 +92,32 @@ header {
   background-color: #ff385c;
   padding: 20px 20px 0 20px;
   text-align: center;
+  margin-bottom: 40px;
 }
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 72px;
+  font-size: 50px;
   color: #fff;
 }
+
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
 header nav ul {
   display: flex;
   justify-content: center;
   text-align: center;
   padding: 0 0 20px 0;
+    padding-left: 0;
+  list-style: none;
 }
 
 header nav ul li {
   list-style-type: none;
+  font-size: x-large;
 }
 
 header nav ul li a {
@@ -121,8 +161,19 @@ form button {
   color: #fff;
   font-size: 24px;
   padding: 15px;
+  display: flex;
   width: 100%;
 }
+
+.date::placeholder {
+  color: black;
+} 
+
+ .space-between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+} 
 
 /* -------  Footer ------- */
 
@@ -141,6 +192,7 @@ footer p {
   header {
     display: flex;
     justify-content: space-between;
+    
   }
   
   .logo {
