@@ -1,0 +1,60 @@
+After 480px, the Nav menu and the form elements are misaligned. I suggest you to make the form elements in a horizontal position along with the "Search" button to counter this issue after 480px width. [Take a look]: https://paste.pics/I4072 .
+You have also missed the entire "Ideas" section in your webpage. [Take a look]: https://paste.pics/I407G .
+In the Desktop/tablet view, please consider adding the spaces between two adjacent Images and the paragraph. [Take a look]: https://paste.pics/I1B3D .
+At 340px screen width, The font-size of the logo is too large and creating a white bar down the right side of the screen. [Take a look]: https://paste.pics/I1B3J . Please try to resolve this issue.
+Please try to resolve these issues as they are critical to pass the assessment. Submit your work after careful revision. Thanks
+
+
+The student did not use any CSS floats.
+Yes/NA
+
+The student followed a mobile-first development approach.
+Yes/NA
+
+For the student’s mobile design, do the navigation and menu look correct?
+No
+
+For the student’s mobile design, does the navigation function correctly, with the menu links navigating to the right places?
+Yes/NA
+
+For the student’s mobile design, does the HTML form use the input types from the README file?
+Yes/NA
+
+For the student’s mobile design, does the HTML form have field labels and corresponding form fields aligned correctly?
+Yes/NA
+
+For the student’s mobile design, is the content in the remaining sections organized correctly?
+Yes/NA
+
+For the student’s mobile design, all images are responsive?
+Yes/NA
+
+For the student’s tablet/desktop design, there's a media query using a breakpoint of 480px.
+Yes/NA
+
+For the student’s tablet/desktop design, does the navigation and menu look correct?
+No
+
+For a student who elected to do the ThinkfulCupid, is the "Find your perfect match" form in the correct place and aligned correctly?
+Yes/NA
+
+For a student who elected to do the ThinkfulCupid, are the items in the "About" section correctly aligned?
+Yes/NA
+
+For a student who elected to do the ThinkfulCupid, are the items in the "Download" section correctly aligned?
+Yes/NA
+
+For a student who elected to do the ThinkfulCupid, are the blog posts in the "Blog" section displayed correctly?
+Yes/NA
+
+For a student who elected to do the Thinkfulbnb, are search form input fields and the button correctly aligned?
+No
+
+For a student who elected to do the Thinkfulbnb, are the items in the "About" section correctly aligned?
+No
+
+For a student who elected to do the Thinkfulbnb, are the "Ideas" images correctly displayed?
+No
+
+For a student who elected to do the Thinkfulbnb, are the items in the "Want to Become a Thinkful Host?" section correctly aligned?
+Yes/NA
